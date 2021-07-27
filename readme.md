@@ -67,3 +67,32 @@ git config --global user.email example@mail.com"
 	```bash
 	git status
 	```
+
+	- githubda commitlar ro'yxatini ko'rish
+	```bash
+	git log
+	git log --pretty
+	```
+
+	- faylda bo'lgan o'zgarishlarni bekor qilish
+	```bash
+	git checkout -- <file>
+	git checkout -- .
+	```
+
+	- fayllar ro'yxatini ko'rish
+	```bash
+		ls
+	```
+	
+	- fayl yaratish
+	```bash
+		touch index.php
+	```
+
+	- ichiga yozilgan fayl yaratish
+	```bash
+		echo "<?php echo('Hello');?>" >> index.php
+	```
+
+	
