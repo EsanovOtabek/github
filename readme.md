@@ -95,4 +95,16 @@ git config --global user.email example@mail.com"
 		echo "<?php echo('Hello');?>" >> index.php
 	```
 
+	- git add qilinganini bekor qiladi
+	```bash
+	git reset 
+	git reset file.txt
+	```
+
+	- git so'ngi commitni bekor qilish
+	```bash
+		git commit --amend	
+	```
+
+	![](branch.png)
 	
