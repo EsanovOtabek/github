@@ -1,6 +1,7 @@
-#languages: "eng", "rus", "uzb", "ind"
+# languages
+[ "eng", "rus", "uzb", "ind" ]
 
-#courses
+# courses
 
 | id | courseName         | author        | language | YoutubeLink | TgLink | hashtags         | date_time    |
 |----|--------------------|---------------|----------|-------------|--------|------------------|--------------|
@@ -8,7 +9,7 @@
 | 2  | Web Dasturlash     | Asliddin S    | uzb      | link2       | tglin2 | html css js php  | sana va soat |
 
 
-#lessons
+# lessons
 
 | id | LessonName         | course_id | YoutubeLink | TgLink | date_time    |
 |----|--------------------|-----------|-------------|--------|--------------|
