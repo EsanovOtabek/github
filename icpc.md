@@ -11,6 +11,6 @@ SamDU icpc jamoalari
 | 3. | Dream Team         | Asliddin Sayidqulov | Obid Sindorov       | Shoyim Obloqulov  | Baratov Javohir         | Nazarov Fayzullo |
 | 4. | LifePC Group       | Esanov Otabek       | Primov Anvar        | Salimova Maxbuba  | yo'q                    | Nazarov Fayzullo |
 | 5. | RTF Coders         | Jaxongir Burxonov   | Buvosherov Bekzod   | Qaxxorov Mirjaxon | yo'q                    | Nazarov Fayzullo |
-| 6. | LifePC Junior      | Quvonchbek Saydullayev
+| 6. | LifePC Junior      | Quvonchbek Saydullayev | Oromov Akobir    | Bahodir To'rayev  |
 
 
