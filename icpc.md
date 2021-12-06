@@ -10,7 +10,7 @@ SamDU icpc jamoalari
 | 2  | SamSU Program_1    | Javohir Haqberdiyev | Bunyod Hamidov.     | xxxxxxxxxxxxxxxx | Rustam Omonov           | Nazarov Fayzullo |
 | 3. | Dream Team.        | Asliddin Sayidqulov | Obid Sindorov.      | Shoyim Obloqulov | yo'q.                   | Nazarov Fayzullo |
 | 4. | LifePC Group.      | Esanov Otabek.      | Primov Anvar.       | Salimova Maxbuba | yo'q                    | Nazarov Fayzullo |
-| 5. | RF Coders.         | Jaxongir Burxonov.  | Buvosherov Bekzod.  | Qaxxorov Mirjaxon| yo'q.                   | Nazarov Fayzullo |
+| 5. | RTF Coders.         | Jaxongir Burxonov.  | Buvosherov Bekzod.  | Qaxxorov Mirjaxon| yo'q.                   | Nazarov Fayzullo |
 
 
 
